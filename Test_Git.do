@@ -1,4 +1,4 @@
 * Test GitHub
 
-*First change - 1
+*First change
 
